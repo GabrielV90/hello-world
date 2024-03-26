@@ -6,12 +6,12 @@
 <style>   
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: pink;  
+  background-color: magenta;  
 }  
 button {   
        background-color: #4CAF50;   
        width: 100%;  
-        color: red;   
+        color: black;   
         padding: 15px;   
         margin: 10px 0px;   
         border: none;   
@@ -25,7 +25,7 @@ button {
         margin: 8px 0;  
         padding: 12px 20px;   
         display: inline-block;   
-        border: 2px solid grey;   
+        border: 2px orange;   
         box-sizing: border-box;   
     }  
  button:hover {   
